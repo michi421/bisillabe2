@@ -1,4 +1,3 @@
-//Codice copiato dall'esercizio precedente
 var imagenames = ["bici", "biro", "fata", "lago", "lana", "lima", "lupo", "maga", "mare", "moto", "neve", "nido", "nodo", "pane", "riso", "semi", "sugo", "tutu", "vasi", "vino"];
 var lastrng = 0;
 var imagerng;
