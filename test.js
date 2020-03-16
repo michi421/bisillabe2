@@ -40,7 +40,7 @@ var hidecontrols = function(){
 
     if(correct){
         //
-        document.getElementById('emo').setAttribute("src", './res/smiley/smile' + imagerng + '.JPG');
+        document.getElementById('emo').setAttribute("src", './res/smiley/smile' + imagerng + '.jpg');
         console.log("si");
         newimage();
 
